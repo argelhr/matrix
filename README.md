@@ -1,5 +1,9 @@
 # Projeto de Animação Matrix Rain
 
+## Deploy
+
+Site hospedado no Netlify: [Matrix By Argel](https://matrix-by-argelhr.netlify.app/)
+
 ## Visão Geral
 
 Este projeto cria uma animação de chuva Matrix usando HTML, CSS e JavaScript. A animação exibe caracteres caindo, lembrando o icônico efeito de "chuva digital" visto no filme "Matrix". Os caracteres são uma mistura de símbolos alfanuméricos aleatórios e a sigla "CSTSI".
